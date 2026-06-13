@@ -1,4 +1,4 @@
-package dev.theblckbird.piglinfreeportals.mixin;
+package dev.theblckbird.portalsnopigmen.mixin;
 
 import net.minecraft.core.BlockPos;
 import net.minecraft.server.level.ServerLevel;
